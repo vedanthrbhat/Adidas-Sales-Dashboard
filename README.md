@@ -86,8 +86,8 @@ capturing trends during a critical period of market and consumer behavior change
 
 ## 📊 Adidas Sales Dashboard (2020–2021)
 
-<img src="C:\Users\vedan\Pictures\Screenshots\Screenshot 2026-02-19 001907.png" width="800"/>
-<img src="C:\Users\vedan\Pictures\Screenshots\Screenshot 2026-02-19 001931.png" width="800"/>
+<img width="632" height="766" alt="Screenshot 2026-02-19 001907" src="https://github.com/user-attachments/assets/9b455181-e5cd-48b4-bb1a-dce636e0c0ba" />
+<img width="629" height="680" alt="Screenshot 2026-02-19 001931" src="https://github.com/user-attachments/assets/f94f418c-5170-4ee7-9e88-1ec9df8a5f9d" />
 
 The dashboard provides interactive insights into Adidas US sales,
 including revenue, profit, regional trends, and top-performing products.
