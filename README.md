@@ -10,6 +10,8 @@
 🎯 **Goal:** Transform raw Adidas sales data into an interactive executive dashboard
 
 ---
+[Download the Interactive Dashboard]("C:\Users\vedan\Downloads\Adidas Sales Dashboard.html")
+
 
 ## 🧰 Tech Stack
 
@@ -79,6 +81,16 @@ capturing trends during a critical period of market and consumer behavior change
 ✅ SQL Views Created  
 ✅ Interactive Visuals Enabled  
 ✅ Dashboard Ready  
+
+---
+
+## 📊 Adidas Sales Dashboard (2020–2021)
+
+<img src="C:\Users\vedan\Pictures\Screenshots\Screenshot 2026-02-19 001907.png" width="800"/>
+<img src="C:\Users\vedan\Pictures\Screenshots\Screenshot 2026-02-19 001931.png" width="800"/>
+
+The dashboard provides interactive insights into Adidas US sales,
+including revenue, profit, regional trends, and top-performing products.
 
 ---
 
