@@ -10,7 +10,7 @@
 🎯 **Goal:** Transform raw Adidas sales data into an interactive executive dashboard
 
 ---
-[Download the Interactive Dashboard]("C:\Users\vedan\Downloads\Adidas Sales Dashboard.html")
+[Live Dashboard Link --> (https://vedanthrbhat.github.io/Adidas-Sales-Dashboard/)")]
 
 
 ## 🧰 Tech Stack
